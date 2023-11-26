@@ -1,0 +1,2 @@
+# PublicPersonalSettingSet
+公开展示的个人的设定集
