@@ -1,2 +1,2 @@
-# 公开个人设定集PublicPersonalSettingSet
-公开展示的个人的设定集
+# Rokuyama Series Scripts 六山系列脚本
+六山系列脚本存放仓库
