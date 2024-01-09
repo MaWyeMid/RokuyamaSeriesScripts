@@ -2,7 +2,7 @@
 # 六山系列 脚本存放仓库
 ### 语言切换 Langeuages
 #### 中文 Chinese
-中文README.md [点我](##ChineseV)  
+中文README.md [点我](#ChineseV)  
 更多语言需要，请发issue。  
 如果您可以帮忙贡献其他语言版本，请在github上联系我们。
 #### 英文 English
