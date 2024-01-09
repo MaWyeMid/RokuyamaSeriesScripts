@@ -11,9 +11,13 @@ For more languages, please send a issue.
 If you can help commit the other languages, please contact us on github.  
 <a id="ChineseV"></a>  
 ## 中文
+### 索引
+* [六山实验室](/RokuyamaLab.md)
 ### 系列介绍
 六山系列主要讲述了围绕六山所发生的故事。在不同的故事中，六山的含义有所不同。但它们都有着相同的精神内涵，并共用着同一个宇宙。
 <a id="EnglishV"></a>  
 ## English
+### Index
+* [Rokuyama Lab](/RokuyamaLab.md)
 ### Introduction of the Series
 Rokuyama Series tell a series of stories of Rokuyama.The meanings of Rokuyama are different in different stories. But they all share the same spirit and universe.
