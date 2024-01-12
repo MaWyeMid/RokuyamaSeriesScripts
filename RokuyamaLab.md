@@ -3,6 +3,9 @@
 * #### [中文](#ChineseV)(施工中)
 * #### [English](#EnglishV)(Editing)
 <a id="ChineseV"></a>
+### 声明 Announcement
+**本故事的情节纯属虚构，不存在对现实世界中任何人和事物的参考，借鉴和映射。**  
+**The plots of the story is purely fictional,and there existing no reference, draw on, and correspond to the people or events in the real world.**
 ## 中文  
 ### 目录
 #### [第一章 - 六山](#第一章)
